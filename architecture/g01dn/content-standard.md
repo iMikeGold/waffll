@@ -1,8 +1,11 @@
 =====================================================================
 # G01DN CONTENT STANDARD
-Version : 1.0.0
+Version : 1.0.1
+
 Status  : Active Implementation Standard
+
 Purpose : Structuring, Lifespan, and Integrity of Content
+
 =====================================================================
 
 ## Overview

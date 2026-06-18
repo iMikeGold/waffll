@@ -1,9 +1,12 @@
-# =====================================================================
+=====================================================================
 # G01DN NAMING STANDARD
-# Version : 1.0
-# Status  : Active Implementation Standard
-# Purpose : Naming Conventions Across Repository Systems
-# =====================================================================
+Version : 1.0
+
+Status  : Active Implementation Standard
+
+Purpose : Naming Conventions Across Repository Systems
+
+=====================================================================
 
 ## Overview
 

@@ -1,8 +1,8 @@
 =====================================================================
 # G01DN IMPLEMENTATION PROTOCOL
-# Version : 1.0.1
-# Status  : Active Implementation Standard
-# Purpose : Repository Organisation & Interface Separation
+Version : 1.0.1
+Status  : Active Implementation Standard
+Purpose : Repository Organisation & Interface Separation
 =====================================================================
 
 ## Overview

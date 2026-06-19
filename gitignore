@@ -1,0 +1,64 @@
+#####################################################################
+# WAFFLL SYSTEM / G01DN STANDARD
+# File: .gitignore
+# Version: v1.1.0
+# Purpose: Defines excluded files for WAFFLL main-site repository
+# Scope: main-site (Next.js interface layer)
+# Last Updated: 2026-06-18
+#####################################################################
+
+# =========================
+# CORE DEPENDENCIES
+# =========================
+
+node_modules/
+
+# =========================
+# NEXT.JS OUTPUT
+# =========================
+
+.next/
+out/
+dist/
+build/
+
+# =========================
+# ENVIRONMENT
+# =========================
+
+.env
+.env.local
+.env.production
+
+# =========================
+# LOGS
+# =========================
+
+logs/
+*.log
+
+# =========================
+# SYSTEM / OS FILES
+# =========================
+
+.DS_Store
+
+# =========================
+# IDE / EDITOR
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+# TEST / COVERAGE
+# =========================
+
+coverage/
+
+# =========================
+# OPTIONAL CONTENT SAFETY LAYER
+# =========================
+
+content/drafts/
+system/snapshots/
